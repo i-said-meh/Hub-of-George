@@ -1,0 +1,13 @@
+
+body {
+width: 1440px;
+margin: 50px;
+background: radial-gradient(at top left, yellow, green);
+}
+h1, h2 {
+    color: white;
+    background-color: black;
+    width: auto;
+    padding: 5px;
+    margin-bottom: 30px;
+}
